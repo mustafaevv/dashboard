@@ -1,0 +1,19 @@
+.dashboard {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+ 
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 16px;
+  background-color: #f4f4f4;
+}
+
+.header {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
